@@ -1,6 +1,4 @@
-### Hi there 👋
-
-КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ:
+КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
 * Python.
 * SQL для работы с Python.
 * GIT и GitHub.
