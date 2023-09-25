@@ -1,5 +1,5 @@
 КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
-* Python.
+* [Python.](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf)
 * SQL для работы с Python.
 * GIT и GitHub.
 * Создание веб-сервисов на Django.
