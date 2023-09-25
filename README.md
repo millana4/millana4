@@ -1,8 +1,8 @@
 КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
-* [Python.](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf)
-* SQL для работы с Python.
-* GIT и GitHub.
-* Создание веб-сервисов на Django.
+* [Python.](https://github.com/millana4/millana4/blob/main/certificate_4_advanced_python.pdf)
+* [SQL для работы с Python.](https://github.com/millana4/millana4/blob/main/certificate_3_db_for_python_dev.pdf)
+* [GIT и GitHub.](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf)
+* [Создание веб-сервисов на Django.](https://github.com/millana4/millana4/blob/main/certificate_6_django.pdf)
 * Работа с API сторонних сервисов.
 * Работа с методами непрерывной интеграции — CI / CD.
 * Технический английский, Intermediate / Upper Intermediate.
