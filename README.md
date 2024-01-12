@@ -1,11 +1,11 @@
 КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
 * Язык Python, ООП ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_4_advanced_python.pdf))
 * Работа с API.
-* SQL для работы с Python ([сертификат](https://github.com/millana4/millana4/blob/main/certificate_3_db_for_python_dev.pdf))
-* СКВ GIT и GitHub ([сертификат](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf))
-* Фреймворк Django ([сертификат](https://github.com/millana4/millana4/blob/main/certificate_6_django.pdf))
+* SQL для работы с Python ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_3_db_for_python_dev.pdf))
+* СКВ GIT и GitHub ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf))
+* Фреймворк Django ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_6_django.pdf))
 * Работа с методами непрерывной интеграции — CI / CD.
-* HTML и CSS на базовом уровне ([сертификат об обучении])
+* HTML и CSS на базовом уровне ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/stepik_web_development_for_beginners.pdf)
 * Технический английский, Intermediate / Upper Intermediate.
 
 ОБРАЗОВАНИЕ\
