@@ -5,7 +5,7 @@
 * СКВ GIT и GitHub ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf))
 * Фреймворк Django ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_6_django.pdf))
 * Работа с методами непрерывной интеграции — CI / CD.
-* HTML и CSS на базовом уровне ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/stepik_web_development_for_beginners.pdf)
+* HTML и CSS на базовом уровне ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/stepik_web_development_for_beginners.pdf))
 * Технический английский, Intermediate / Upper Intermediate.
 
 ОБРАЗОВАНИЕ\
