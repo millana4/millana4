@@ -1,15 +1,15 @@
 КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ
-* Язык Python, ООП ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_4_advanced_python.pdf))
+* Язык Python, ООП.
 * Работа с API.
-* SQL для работы с Python ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_3_db_for_python_dev.pdf))
-* СКВ GIT и GitHub ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_2_git.pdf))
-* Фреймворк Django ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/certificate_6_django.pdf))
+* SQL для работы с Python.
+* СКВ GIT и GitHub.
+* Фреймворк Django.
 * Работа с методами непрерывной интеграции — CI / CD.
-* HTML и CSS на базовом уровне ([сертификат об обучении](https://github.com/millana4/millana4/blob/main/stepik_web_development_for_beginners.pdf))
+* HTML и CSS на базовом уровне.
 * Технический английский, Intermediate / Upper Intermediate.
 
 ПОРТФОЛИО
-* [Pet-проект «Трекер целей FOCUS».](https://github.com/millana4/goal_tracker) В приложении пользователь может собрать свои жизненные цели — профессиональные и личные, а также записывать идеи на будущее. Это помогает человеку сформулировать свои пожелания и держать их в фокусе. Технологии: Python, Django, DjangoRestFramework, PostgreSQL, Bootstrap, HTML.
+* [«Трекер целей FOCUS».](https://github.com/millana4/goal_tracker) В приложении пользователь может собрать свои жизненные цели — профессиональные и личные, а также записывать идеи на будущее. Это помогает человеку сформулировать свои пожелания и держать их в фокусе. Технологии: Python, Django, DjangoRestFramework, PostgreSQL, Bootstrap, HTML.
 * [Дипломная работа «API-сервис заказа товаров для розничных сетей».](https://github.com/millana4/API-Service-for-ordering-goods-for-retail-chains) Приложение предназначено для автоматизации закупок в розничной сети. Технологии: Python, Django, DjangoRestFramework, PostgreSQL.
 * [Курсовая работа «Резервное копирование».](https://github.com/millana4/Backup_from_vk_to_yandex_disk) Программа для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск. Технологии: Python, API Yandex, API VK.
   
