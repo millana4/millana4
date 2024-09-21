@@ -4,8 +4,7 @@
 * SQL для работы с Python.
 * СКВ GIT и GitHub.
 * Фреймворк Django.
-* Работа с методами непрерывной интеграции — CI / CD.
-* HTML и CSS на базовом уровне.
+* HTML и CSS.
 * Технический английский, Intermediate / Upper Intermediate.
 
 ПОРТФОЛИО
